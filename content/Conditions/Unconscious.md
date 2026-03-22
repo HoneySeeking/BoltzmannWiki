@@ -1,0 +1,3 @@
+- [[Incapacitated]]
+- [[Prone]]
+- Can't move, speak, is unaware of surroundings

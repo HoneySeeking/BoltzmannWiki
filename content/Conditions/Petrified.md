@@ -1,0 +1,5 @@
+- A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
+- The creature is [[Incapacitated]], can’t move or speak, and is unaware of its surroundings.
+- The creature automatically fails [Strength](https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=0#toc_12) and [Dexterity](https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=0#toc_17) [saving throws](https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=0#toc_35).
+- The creature has [resistance](https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=0#toc_51) to all [damage](https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=0#toc_46).
+- The creature is immune to [poison](https://roll20.net/compendium/dnd5e/Rules:Poisons?expansion=0#content) and [disease](https://roll20.net/compendium/dnd5e/Rules:Diseases?expansion=0#content), although a poison or disease already in its system is suspended, not neutralized.

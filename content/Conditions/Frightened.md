@@ -1,0 +1,2 @@
+- A frightened creature has disadvantage on checks and attacks while its source of fear is within line of sight or is thought to be near
+- Every action that doesn't take the frightened creature has them taking Composure damage equal to the larger of VIT or PRE dice of the frightener

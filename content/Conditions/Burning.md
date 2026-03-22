@@ -1,0 +1,4 @@
+- Lasts for turns equal to some specified countdown dice
+- Start of every turn increments the countdown
+- Take energy damage equal to the countdown dice
+- Can be turned off with 2 actions from anyone in reach (including the burning individual)

@@ -1,0 +1,2 @@
+- Disadvantage on attacks
+- Melee attacks against the creature have advantage

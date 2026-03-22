@@ -1,0 +1,1 @@
+- A deafened creature can’t hear and automatically fails any check that requires hearing.

@@ -1,0 +1,3 @@
+- A charmed creature can’t attack the glamorer or target the glamorer with harmful abilities or magical effects.
+- The glamorer has advantage on any ability check to interact socially with the creature.
+- Not mind control

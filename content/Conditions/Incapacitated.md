@@ -1,0 +1,2 @@
+- An incapacitated creature can’t take actions.
+- [[Vulnerable]]

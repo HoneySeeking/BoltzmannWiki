@@ -1,0 +1,2 @@
+- Every point in exhaustion reduces dice sizes of all your attributes by 1. If VIT or PRE hits d0, you die of exhaustion
+- Finishing a [[Rest|Long Rest]] reduces a creature’s exhaustion level by 1, provided that the creature has also ingested some food and drink.

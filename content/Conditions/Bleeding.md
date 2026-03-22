@@ -1,0 +1,4 @@
+- Lasts for number of actions equal to some countdown dice
+- Taking an action increments the countdown
+- Take rending damage equal to the countdown dice
+- Every turn spent without taking an action decreases the countdown size by 1 without dealing the damage

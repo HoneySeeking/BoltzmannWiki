@@ -1,0 +1,4 @@
+- Automatically applied when Composure becomes 0
+- Any damage taken is taken to Vitality, reducing VIT size by (damage / 10), and these reductions are considered [[Wound|Wounds]]
+	- The instance of damage that caused the drop to Uncomposed is reduced by remaining Composure and then carries over as Vitality damage
+- Anytime Vitality damage is taken, after the reduction, roll a Vitality check against the larger of damage/10 or 1 to see if you're still standing. If failed, you are also [[Dying]] on top of Uncomposed

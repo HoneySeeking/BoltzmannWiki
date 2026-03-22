@@ -1,0 +1,5 @@
+- Or COMP for short
+- A measure of how well your guard is up against threats
+- Provides a pool of points that absorb damage before it starts hurting your [[Attributes and Skills#Vitality]]
+- Maximum Composure = VIT dice + AGI dice / 2 + PRE dice + INT dice / 2
+- When COMP is 0 you are [[Uncomposed]]

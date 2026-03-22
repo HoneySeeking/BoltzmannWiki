@@ -1,0 +1,4 @@
+- [[Incapacitated]]
+- Can’t move
+- Can speak only falteringly.
+- Automatically fails VIT and AGI checks

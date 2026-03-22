@@ -1,0 +1,13 @@
+- [[Dazed]]
+- Falls [[Prone]] until tended to
+- Death comes if not tended to for 10 minutes within an hour after first getting wounded
+	- You can tend yourself
+	- #todo want to involve some kind of a roll for success
+- Any damage is then taken to Vitality, reducing VIT size by round up (damage / 10), and these reductions are considered [[Wound|Wounds]]
+- Anytime Vitality damage is taken, after the reduction, roll a Vitality check against how much your vitality was just reduced to see if you're still alive
+- eg. You have VIT dice d12:
+	- You take 7 damage, reducing your VIT to d10
+	- You check against death, and roll a 5 on your d10, beating 1, so you survive for now
+	- The enemy strikes again, hitting you for 13 this time, reducing your VIT by 2 sizes to d6
+	- You check against death, rolling a 1 on your your check, with the sweet embrace of death accepting you
+- #todo might be needlessly complicated, come back after playtests

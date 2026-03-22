@@ -1,0 +1,5 @@
+- [[Incapacitated]]
+- [[Prone]]
+- [[Uncomposed]]
+- Can’t move or speak.
+- Automatically fails Athletics, Acrobatics, and Agility checks

@@ -1,0 +1,1 @@
+- A blinded creature can’t see and automatically fails any check that requires sight.

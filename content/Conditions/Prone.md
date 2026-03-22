@@ -1,0 +1,5 @@
+- Can only move by crawling for half their pace
+- If possible, can stand up as an action to end the effect
+- [[Vulnerable]]
+- Any cover becomes [[Cover#Full Cover]]
+- If flying, falls to the ground

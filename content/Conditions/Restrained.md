@@ -1,0 +1,3 @@
+- [[Vulnerable]]
+- Pace becomes 0, and can’t benefit from any bonus to its speed.
+- Disadvantage on AGI checks

@@ -1,0 +1,4 @@
+- Cannot distinguish friend from foe
+- If agitated, may cause them to treat everything as foes
+- Unable to think clearly; bewildered;
+- 2x disadvantage on PRE and INT checks

@@ -1,0 +1,2 @@
+- Impossible to see without the aid of magic or a special sense
+- The creature’s location can be detected by senses and clues such as any noise it makes, scent, or tracks

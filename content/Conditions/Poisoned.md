@@ -1,0 +1,1 @@
+- Disadvantage on attack rolls and ability checks

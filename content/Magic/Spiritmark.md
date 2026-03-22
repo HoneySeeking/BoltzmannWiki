@@ -1,0 +1,4 @@
+- The powers given by spirits also come with their responsibilities
+- Each Spiritmark gives you 1 [[Ego Death#Bound]]
+- The mark can be erased by spending ego to gain some trait/attribute gained from the totem
+- Each ego you spend this way erases one associated spiritmark
