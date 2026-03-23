@@ -38,24 +38,22 @@ The forest is full of all sorts of creatures. Decide what your creature looks li
 - **Semi-Aquatic**. You can hold your breath for minutes equal to you VIT die and [[Movement#Swim]] at your pace.
 - **Spiky**. Enemies attacking you from melee range are damaged for your VIT dice
 - **Seismicsense**. Gain [[Senses#Seismicsense]] to 20 meters
-- **Tough**. Your vitality counts as 1.5x for the purposes of calculating max composure.
-- **Unyielding**. Your presence counts as 1.5x for the purposes of calculating max composure.
 - **Bonus**. Come up with your own Ancestral Traits for custom species!
 ---
 ### Negative Traits
 
 - **Bloodlust** (1/2/3). When your composure is half or lower at the start of your turn you must succeed on a DC(4/8/12) PRE check or move towards and attack the nearest creature.
+- **Blind**. This race has no functional eyes.
 - **Cyclops**. Cannot tell how far something is. Disadvantage on all ranged attacks #todo remove?
 - **Damage Weakness**. You gain weakness to one [[Damage]]
 - **Deformed**. All social checks are made with a disadvantage. New NPC lean towards assuming the worst about you.
 - **Environmental Weakness**. Temporary has [[Exhaustion]] while in certain kinds of environment, eg cold blooded creatures in the cold. More points depending on the extremity of the environment at BM's discretion.
 - **Dependency**. Requires consistent access to a relatively uncommon substance, whether it be blood, a specific plant, a new shiny object, etc etc. Every day spent without access to it results in a [[Exhaustion]]
-- **Frail**. Your vitality counts as 2/3 for the purposes of calculating max composure.
+- **Deaf**. This race has no functional ears.
 - **Madness**. #todo
 - **Mute**. This race cannot vocalize in the normal means and must communicate with others through other means.
 - **Predatory Senses**. If seeing a fleeing enemy at the start of turn, have to succeed on a DC(4/8/12) PRE check against must spend turn trying to chase and/or finish them off. The difficulty depends on the size and number of fleeing enemies, with larger groups and larger prey making it harder
-- **Unusual Body Shape**. Can’t use most clothing, armor, or furniture fitted. Armor needs to be specifically made for you. 
-- **Yielding**. Your presence counts as 2/3 for the purposes of calculating max composure. 
+- **Unusual Body Shape**. Can’t use most clothing, armor, or furniture fitted. Armor needs to be specifically made for you.
 - **Small**. One [[Size]] category lower
 - **Slow**. Pace is 2/3 of normal. 
 
@@ -117,7 +115,6 @@ The forest is full of all sorts of creatures. Decide what your creature looks li
 Can't be picked up during character creation.
 
 - **Amorphous.** Can squeeze through a space as narrow as 1 dm wide, provided you are wearing and carrying nothing. You also have advantage on ability checks you make to initiate or escape a grapple
-- **Heated Body** (3). A creature that touches you or hits with a melee attack take your VIT check as energy damage.
 - **Immortality** (5). You stop aging. You are immune to any effect that would age you, and you can't die from old age.
 - **Demonic Hunger** (2). Creatures you eat are forgotten.
 - **Demonic Illumination**. All sources of light are suppressed in your presence

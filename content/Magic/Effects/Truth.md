@@ -1,5 +1,5 @@
 ---
-Cost: 5
+Cost: 4
 Resist: INT
 Success: Negates
 Period: 10 minutes

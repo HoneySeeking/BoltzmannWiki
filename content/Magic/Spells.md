@@ -1,4 +1,4 @@
-# Spells
+
 # Overview
 - Spellcasting requires: waving the totem around and the ability to speak (wave your body around if you are the totem)
 - Spellcast like you're building your sandwich at Subway:
@@ -20,19 +20,19 @@
 - eg cone of bears
 - eg axe of polymorph
 - eg invisibility on yourself, and confusion in an aoe around yourself
+- While the spell is active, as appropriate, a spectral manifestation of the spirit providing you with the effect stands besides you, performing the actions of the effect
 
 # Effect
 - Main article: [[Effects]]
 - Lots of the effects have multiple levels and gain additional effects, whether that be more damage or loosened restrictions
 - Some effects specify slightly different effects depending on whether their method of delivery is an **AoE** (area of effect) or discrete **Targets**. If not specified, assume the effect simply applies to all creatures in the AoE the same way. If an AoE description is specified without a Target description or vice versa, then the effect can only be used that way
-- While channeling spirits, you will get a handful of specific effects, with descriptions of its trappings and any specific conditions on it
 # Duration
 - Spells can be cast to last an instant for half the ego death cost, but can be maintained beyond that for an action every turn, and you can have as many spells active as you have the actions to keep maintaining them
 	- ie. the ball of fire can be an instant explosion for cheaper, but sustained over multiple turns for a greater total effect
 - Each effect has an associated **Period**, specifying how often they require a Divergence Roll to maintain its effect
 
 # Delivery
-You start with only knowing how touch
+You start with only knowing how touch and unlock the others through traits
 
 | Delivery                     | Cost Multiplier       | Range           | Description                                                                                                                                                       |
 | ---------------------------- | --------------------- | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |

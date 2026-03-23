@@ -23,13 +23,11 @@
 13. [[Silenced]] for Cd6 turns
 14. [[Slowed]] for Cd6 turns
 15. A random [[Effects]] is cast on you with 1D4 levels and as an aura with 2D6 meter radius affecting you
-16. You gain a random [[Traits#Ancestral Traits]] for 
-17. Your body part is possessed by a hostile spirit and rebels against you for Cd4 turns. Roll on the [[Body Parts]]
-18. Spell succeeds and the full effect is maintained for you without an action from you to maintain it. Effects that rely on the maintenance action for additional functionality (eg. move the aoe, retrigger something) still require the action, but doesn't fizzle out if not maintained. Roll again if not casting
-19. The spirit flows through you violenty. The spell multiply one number in the spell of your choice by 2 and gain a level of [[Exhaustion]]. Just gain the exhaustion if not casting (roll again if not casting)
-20. You gain the **Extra Arms** trait for Cd6 turns but you can't control these arms as a hostile spirit possesses you. The arms use your attributes
-21. The nearest Raccoon sized of large plant is awakened for Cd4 days
-22. Roll on the Dissonance table
+16. Your body part is possessed by a hostile spirit and rebels against you for Cd4 turns. Roll on the [[Body Parts]]
+17. Spell succeeds and the full effect is maintained for you without an action from you to maintain it. Effects that rely on the maintenance action for additional functionality (eg. move the aoe, retrigger something) still require the action, but doesn't fizzle out if not maintained. Roll again if not casting
+18. The spirit flows through you violenty. The spell multiply one number in the spell of your choice by 2 and gain a level of [[Exhaustion]]. Just gain the exhaustion if not casting (roll again if not casting)
+19. The nearest Raccoon sized of large plant is awakened for Cd4 days
+20. Roll on the Dissonance table
 
 # Dissonance
 1. Roll twice more on the table
