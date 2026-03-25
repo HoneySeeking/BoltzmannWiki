@@ -25,6 +25,14 @@
 - [[Movement]]
 - [[Size]]
 - Torches burn for 30 minutes real time
+
+## Character Sheet
+- Still a work in progress, but channeling might be a lil tricky => few ideas:
+	- push the sticky deeper into your character sheet to indicate you're channeling it
+	- for attribute/skill dice, show how your base value is modified with something a "d6 -> d10" type notation
+	- write the traits you get from channeling from the bottom up/or in a pencil
+- Cross out/draw a harder line delineating your carry capacity
+
 ## Exploding Dice
 - Reroll and add the result of any max rolls for as many times it happens. Applies to all the dice involved in a roll
 - Below are monte-carlo estimations (n=1,000,000) for expected value and variance:

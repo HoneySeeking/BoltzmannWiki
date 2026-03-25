@@ -7,10 +7,10 @@
 
 | Type   | Example            | Armor | Minimum Vitality | Inventory Slots |
 | ------ | ------------------ | ----- | ---------------- | --------------- |
-| Shield | Shield             | 2     | d4               | Medium          |
-| Light  | Leather            | 1     | d4               | Medium          |
-| Medium | Wood               | 3     | d8               | Large           |
-| Heavy  | Bone/Chitin/Bronze | 5     | d12              | Large           |
+| Shield | Shield             | 2     | d4               | 1               |
+| Light  | Leather            | 1     | d4               | 1               |
+| Medium | Wood               | 3     | d8               | 2               |
+| Heavy  | Bone/Chitin/Bronze | 5     | d12              | 3               |
 
 # Examples
 How I imagine leather "armor":

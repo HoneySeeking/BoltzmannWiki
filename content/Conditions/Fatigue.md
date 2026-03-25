@@ -1,0 +1,2 @@
+- Every point in fatigue reduces dice sizes of all your attributes by 1. If VIT or PRE hits d0, you die of fatigue
+- Finishing a [[Rest|Long Rest]] reduces a creature’s fatigue level by 1, provided that the creature has also ingested some food and drink.

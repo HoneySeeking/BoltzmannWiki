@@ -11,5 +11,6 @@
 - eg. Possessions, [[Spiritmark]]
 
 # Unbound
-- Over a [[Rest]], reduce loose ego death through a creative meditation session
+- Over a [[Rest#Short Rest]], reduce loose ego death through a creative meditation session
 - Roll your choice of [[Attributes and Skills#Artisanal Skills]]
+- Or over a [[Rest#Long Rest]], do the same but remove all unbound ego death

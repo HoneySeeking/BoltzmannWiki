@@ -4,9 +4,9 @@
 
 | Size          | Grid Square | Fall Damage      | Inventory Slot<br>Multiplier | Movement Multiplier | Inventory Slots<br>To Carry You |
 | ------------- | ----------- | ---------------- | ---------------------------- | ------------------- | ------------------------------- |
-| Ant Size      | 1/16 meters | 1d4 per 4 meters | 1/4                          | 1/2                 | 1 small                         |
-| Mouse Size    | 1/4 meters  | 1d4 per 2 meters | 1/2                          | 1                   | 1 medium                        |
-| Raccoon Size  | 1 meter     | 1d6 per 2 meters | 1                            | 1                   | 2 large                         |
-| Wolf Size     | 2 meters    | 1d6 per meter    | 2                            | 1                   | 8 large                         |
-| Bear Size     | 3 meters    | 2d6 per meter    | 3                            | 1                   | 32 large                        |
-| Elephant Size | 4 meters    | 4d6 per meter    | 4                            | 2                   | 128 large                       |
+| Ant Size      | 1/16 meters | 1d4 per 4 meters | 1/4                          | 1/2                 | 0                               |
+| Mouse Size    | 1/4 meters  | 1d4 per 2 meters | 1/2                          | 1                   | 1                               |
+| Raccoon Size  | 1 meter     | 1d6 per 2 meters | 1                            | 1                   | 4                               |
+| Wolf Size     | 2 meters    | 1d6 per meter    | 2                            | 1                   | 16                              |
+| Bear Size     | 3 meters    | 2d6 per meter    | 3                            | 1                   | 64                              |
+| Elephant Size | 4 meters    | 4d6 per meter    | 4                            | 2                   | 256                             |

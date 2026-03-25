@@ -17,7 +17,6 @@ A measure of physical strength and resilience:
 ## Agility
 A measure of finesse and speed:
 - [[Movement#Pace]]
-- Attackspeed #todo maybe maybe maybe
 - A character with AGI d0 is [[Restrained]]
 
 ## Presence
@@ -39,88 +38,43 @@ All skills start at d0 without a dice. When attempting something, the BM will pi
 | DC  | Difficulty                                               |
 | --- | -------------------------------------------------------- |
 | 1   | Trivial. Just about anyone can do it with minimal effort |
-| 5   | Experienced people can do it consistently                |
-| 10  | Challenging for experienced people                       |
-| 15  | Almost impossible for most people to do consistently     |
-| 20  | Challenging even for experts                             |
+| 4   | Experienced people can do it consistently                |
+| 8   | Challenging for experienced people                       |
+| 12  | Almost impossible for most people to do consistently     |
+| 16  | Challenging even for experts                             |
 
-## Athletics
-- Default: VIT
-- Used for difficult situations you encounter while climbing, jumping, swimming, or something else where brute force is required.
-- [[Combat Rules#Attack#Grapple]]
-## Finesse
-- Default: AGI
-- Staying on your feet in a tricky situation, such as when you’re trying to run across a sheet of ice, balance on a tightrope, or stay upright on a rocking ship’s deck
-- Attempting an act of legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person
-- [[Combat Rules#Attack#Grapple]]
-## History
-- Default: INT
-- Recalling lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, and lost civilizations
-## Shivers
-- Default: PRE
-- Deciding whether you can determine the true intentions of a creature, such as when searching out a lie or predicting someone’s next move
-## Nature
-- Default: INT
-- Navigating the wilderness, tracking, hunting, and predicting weather
-- Recalling lore about terrain, plants and animals, the weather, and natural cycles
-## Persuasion
-- Default: PRE
-- Attempting to influence someone or a group of people with tact, social graces, or good nature
-- Convincingly hide the truth, either verbally or through your actions
-## Performance
-- Default: PRE
-- Delighting an audience with music, dance, acting, storytelling, or some other form of entertainment
-- Making yourself appear more intimidating
-## Perception
-- Default: INT
-- Spotting, hearing, or otherwise detecting the presence of something
-- Measures your general awareness of your surroundings and the keenness of your senses
-- Looking around for clues and make deductions based on those clues
-## Shamanism
-- Default: INT
-- Recalling lore about spirits, deities, rites and prayers, religious hierarchies, holy symbols, and the practices of secret cults
-- Recalling facts about spirit based magical effects
-- Possibly also medical stuff
-## Stealth
-- Default: AGI
-- Concealing yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard.
+| Skill          | Default Attribute | Covers                                                                                                                                                                                                                                                          |
+| -------------- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Athletics**  | VIT               | Applying raw physical power<br>- Climbing difficult surfaces<br>- Jumping gaps or obstacles<br>- Swimming in dangerous conditions<br>- Lifting, dragging, or forcing objects<br>- Grappling or overpowering opponents in combat [[Combat Rules#Attack#Grapple]] |
+| **Finesse**    | AGI               | Precise bodily control and delicate manipulation.<br>- Maintaining balance on unstable surfaces<br>- Tightrope or precarious footing<br>- Sleight of hand or planting objects<br>- Concealing small items<br>- Evading [[Combat Rules#Attack#Grapple]]          |
+| **History**    | INT               | Knowledge of the past.<br>- Ancient civilizations<br>- Legendary figures and dynasties<br>- Past wars and migrations<br>- Cultural traditions and old alliances                                                                                                 |
+| **Nature**     | INT               | Practical knowledge of the wild.<br>- Navigation and wayfinding<br>- Tracking creatures<br>- Hunting and survival<br>- Weather prediction<br>- Knowledge of plants, animals, and terrain                                                                        |
+| **Perception** | INT               | Awareness of the immediate environment.<br>- Noticing hidden or distant activity<br>- Detecting ambushes<br>- Following faint clues<br>- Hearing or smelling subtle signs                                                                                       |
+| **Persuasion** | PRE               | Influencing others through presence or speech.<br>- Negotiation and diplomacy<br>- Deception or concealment of truth<br>- Inspiring or rallying others<br>- (VIT) Intimidation through force of personality or physical threat                                  |
+| **Shamanism**  | INT               | Knowledge and practice of spirit interaction.<br>- Understanding spirits and sacred hierarchies<br>- Performing rituals and prayers<br>- Identifying supernatural phenomena<br>- Recognizing curses, blessings, and spirit magic                                |
+| **Shivers**    | PRE               | Intuitive emotional and situational awareness.<br>- Reading intentions or motives<br>- Detecting lies or tension<br>- Predicting behavior in a social encounter<br>- Sensing when something is wrong                                                            |
+| **Stealth**    | AGI               | Avoiding detection.<br>- Hiding from observers<br>- Moving silently<br>- Bypassing guards<br>- Sneaking up on targets                                                                                                                                           |
 
 # Artisanal Skills
-Skills needed to craft, repair, or appraise items. Can be used to reduce Ego Death during a [[Rest]]. Spend one Ego here to gain 2 die size increases to use here. #todo something to do with herding animals here?
-## Alchemy
-- Knowledge on entheogens and poisons
+Skills needed to craft, repair, or appraise items. Can be used to reduce Ego Death during a [[Rest]]. Spend one Ego here to gain 2 die size increases to use here. If a skill involves creating objects, the same skill can **repair** or **appraise** them.
 
-## Clayworking
-- Also includes glassworking
-
-## Cooking
-- Cook food that restores composure equal to a pure cooking check over a [[Rest#Short Rest]]
-## Leatherworking
-
-## Masonry
-
-## Knotting
-- The equivalent of literacy and calligraphy in a world where quipus are the main form of "writing"
-## Painting
-
-## Woodcarving
-
-## Weaving
-- More to do with textiles
-
-## An instrument of your choice
+| Skill          | Covers                                                                                                                                                                                                                    |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Artcraft**   | Creative expression and ceremonial aesthetics.<br>- Music, dance, and performance<br>- Painting, ornamentation, ritual decoration<br>- Storytelling and oral tradition                                                    |
+| **Brewcraft**  | Preparation and transformation of organic materials.<br>- Cooking and preservation<br>- Fermentation and brewing<br>- Herbal mixtures and medicines<br>- Poisons, dyes, and resins                                        |
+| **Beastcraft** | Working with animals and animal materials.<br>- Herding and riding<br>- Training beasts<br>- Animal medicine<br>- Leather and bone working                                                                                |
+| **Fibercraft** | Flexible materials and knot-based knowledge systems.<br>- Weaving and textiles<br>- Rope and braiding<br>- Quipu literacy and knot recording                                                                              |
+| **Woodcraft**  | Shaping wood into tools and structures.<br>- Carving and joinery<br>- Bows and weapon shafts<br>- Tools and wooden structures                                                                                             |
+| **Earthcraft** | Working with stone, clay, and mineral materials.<br>- Pottery and ceramics<br>- Masonry and stone construction<br>- Glassmaking and kilns<br>- Stone tools and weapon heads<br>- Mining, quarrying, and mineral appraisal |
 
 # Weapons Skills
 You can spend one ego to increase the die size by 1. See [[Weapons#Weapons]] lists each weapon, followed by their weight, followed by their type, followed by traits. Attack damage is a sum of your skill dice and the weapon's damage dice. Weapon attacks count as a VIT check.
-## Bladed
-Knives and swords
-## Impact
-Axes and maces
-## Polearm
-Spears and long sticks
-## Flexible
-Chains and whips
-## Bow
-Bows and crossbows
-## Thrown
-Javelins and slings
+
+| Skill        | Covers                 |
+| ------------ | ---------------------- |
+| **Bladed**   | Knives and swords      |
+| **Bow**      | Bows and crossbows     |
+| **Flexible** | Chains and whips       |
+| **Impact**   | Axes and maces         |
+| **Polearm**  | Spears and long sticks |
+| **Thrown**   | Javelins and slings    |

@@ -10,7 +10,8 @@ The forest is full of all sorts of creatures. Decide what your creature looks li
 
 --- 
 
-- **Aquatic**. Requires Semi-Aquatic. You can breathe underwater and [[Movement#Swim]] at 1.5 times your pace.
+- **Aquatic**. Requires Aquatic-Limited. You can breathe underwater and [[Movement#Swim]] at 1.5 times your pace.
+- **Aquatic-Limited**. You can hold your breath for minutes equal to you VIT die and [[Movement#Swim]] at your pace.
 - **Big** (2). One [[Size]] category larger
 - **Burrowing**. You can [[Movement#Burrow]] through 1 meter loose earth per minute.
 - **Breath Weapon**. You gain the **Cone** and **Aura** traits
@@ -18,24 +19,22 @@ The forest is full of all sorts of creatures. Decide what your creature looks li
 - **Camouflage**. Pick one type of terrain => advantage on stealth checks in it, and functionally [[Invisible]] while standing still in it
 - **Chlorophyl**. #todo
 - **Complex Pheromones**. Can convey more complex messages through [[Languages#Pheromones]]. This can be understood by anyone that has a trait that enhances their pheromones or scent.
-- **Enhanced Adrenaline**. #todo Getting damaged while [[Uncomposed]] and succeeding on the ensuing Vitality check results in gaining composure equal to the damage dealt plus the vitality check result.
 - **Enhanced Adrenaline**. [[Hastened]] while [[Uncomposed]] 
 - **Exceptional Hearing**. Have a good idea of creatures around you in a 20 meter radius: approximately what and where. [[Deafened]] for Cd6 turns if damaged by loud noises.
 - **Exceptional Smell and Taste**. By smelling the area, you get a history of who's been here since last precipitation and roughly how long ago in a 20 meter radius. You know all the ingredients in whatever you're consuming. By tasting the blood with your tongue you are able to accurately predict the size and general physiology of the creature
 - **Exceptional Sight**. Can see in low-light conditions, but see shades of gray up to 20 meters radius. Can't see in true darkness (which usually doesn't occur naturally unless deep underground). [[Blinded]] for Cd6 turns if damaged by bright lights.
-- **Flight-Limited**. Requires Leaper. You gain [[Movement#Flight]] equal to pace, but you fall prone at the end of your turn if in the air.
-- **Flight**. Requires Flight-Limited. You gain [[Movement#Flight]] equal to pace. Remaining in the air requires doing a movement action every turn to maintain it.
-- **Innate Technique**. Pick one [[Effects]]. You must have some physical feature that can generate this effect (though it doesn't have to be super rigorous). You can then cast 1 level of it with whatever delivery methods you may have through an Ancestral Trait, rolling to cast against its total cost with your VIT. If you fail the check, you gain a point of exhaustion and don't cast it. Enemies who try to resist against the effect use the cost of the spell as the DC. You can combine multiple innate techniques into the same casting, but you can't mix spellcasting and innate techniques. You can cast your Innate Technique as a [[Cantrip]]. This trait can be picked up multiple times with different effects, or take the same effect multiple times to be able to cast higher levels.
+- **Flight-Limited**. Requires Leaper. You gain [[Movement#Flight|flight]] equal to pace, but you fall prone at the end of your turn if in the air.
+- **Flight**. Requires Flight-Limited. You gain [[Movement#Flight|flight]] equal to pace. Remaining in the air requires doing a movement action every turn to maintain it.
+- **Innate Technique**. Pick one [[Effects]]. You must have some physical feature that can generate this effect (though it doesn't have to be super rigorous). You can then cast 1 level of it with whatever delivery methods you may have through an Ancestral Trait, rolling to cast against its total cost with your VIT. If you fail the check, you gain a point of fatigue and don't cast it. Enemies who try to resist against the effect use the cost of the spell as the DC. You can combine multiple innate techniques into the same casting, but you can't mix spellcasting and innate techniques. You can cast your Innate Technique as a [[Cantrip]]. This trait can be picked up multiple times with different effects, or take the same effect multiple times to be able to cast higher levels.
 - **Leaper**. You can [[Movement#Jumping|jump]] twice the normal distance.
 - **Left Pawed**. You are simply better.
-- **Naturally Armored**. Covered in shell/exoskeleton/thick fur. Gain 2 [[Armor]]. Can get this trait up to 3 times. #todo all armor values really need to be tuned
-- **Natural Weapon**. You can use a body part as a natural weapon. Light weapon, and gains one [[Weapons#Traits]] (that isn't a material trait) of your choice. Taking this trait twice increases size to medium and you can pick 2 weapon traits. Thrice increases size to heavy and you can pick 3 weapon traits.
+- **Naturally Armored**. Covered in shell/exoskeleton/thick fur. Gain 2 [[Armor]]. Can get this trait up to 3 times.
+- **Natural Weapon**. You can use a body part as a natural weapon. Light weapon, and gains one (non material trait) [[Weapons#Traits|trait]] of your choice. Taking this trait twice increases size to medium and you can pick 2 weapon traits. Thrice increases size to heavy and you can pick 3 weapon traits.
 - **Prehensile Tail/Secondary Arms**. Your tail is prehensile or you have secondary smaller arms and can be used in a variety of ways, like holding a single object or interacting with your environment. It gains a medium [[Inventory]] slot
 - **Projectile Weapon**. You gain the **Bolt** and **Line** traits
 - **Quick**. Pace is 1.5 times the normal
-- **Regeneration**. Your [[Wound#Natural Healing]] countdown rolls go down on a 1 or a 2. Your can regrow lost limbs. #todo cancer?
+- **Regeneration**. Your [[Wound#Natural Healing]] countdown rolls go down on a 1 or a 2. Your can regrow lost limbs. One wounds worth of blood can be processed with [[Attributes and Skills#Artisanal Skills|brewcraft]] to create an ointment that heals one wound.
 - **Resistance** (3). You gain resistance to one [[Damage#Damage Type]]
-- **Semi-Aquatic**. You can hold your breath for minutes equal to you VIT die and [[Movement#Swim]] at your pace.
 - **Spiky**. Enemies attacking you from melee range are damaged for your VIT dice
 - **Seismicsense**. Gain [[Senses#Seismicsense]] to 20 meters
 - **Bonus**. Come up with your own Ancestral Traits for custom species!
@@ -44,16 +43,18 @@ The forest is full of all sorts of creatures. Decide what your creature looks li
 
 - **Bloodlust** (1/2/3). When your composure is half or lower at the start of your turn you must succeed on a DC(4/8/12) PRE check or move towards and attack the nearest creature.
 - **Blind**. This race has no functional eyes.
-- **Cyclops**. Cannot tell how far something is. Disadvantage on all ranged attacks #todo remove?
+- **Bright Plumage**. You are visually conspicuous. Stealth checks suffer disadvantage in most terrain.
 - **Damage Weakness**. You gain weakness to one [[Damage]]
-- **Deformed**. All social checks are made with a disadvantage. New NPC lean towards assuming the worst about you.
-- **Environmental Weakness**. Temporary has [[Exhaustion]] while in certain kinds of environment, eg cold blooded creatures in the cold. More points depending on the extremity of the environment at BM's discretion.
-- **Dependency**. Requires consistent access to a relatively uncommon substance, whether it be blood, a specific plant, a new shiny object, etc etc. Every day spent without access to it results in a [[Exhaustion]]
 - **Deaf**. This race has no functional ears.
+- **Deformed**. All social checks are made with a disadvantage. New NPC lean towards assuming the worst about you.
+- **Dependency**. Requires consistent access to a relatively uncommon substance, whether it be blood, a specific plant, a new shiny object, etc etc. Every day spent without access to it results in a [[Fatigue]]
+- **Environmental Weakness**. Gain one [[Fatigue]] every hour while in certain kinds of environment, eg cold blooded creatures in the cold. 
+- **Heavy body**. You struggle off the ground. Jump distance is halved.
 - **Madness**. #todo
 - **Mute**. This race cannot vocalize in the normal means and must communicate with others through other means.
 - **Predatory Senses**. If seeing a fleeing enemy at the start of turn, have to succeed on a DC(4/8/12) PRE check against must spend turn trying to chase and/or finish them off. The difficulty depends on the size and number of fleeing enemies, with larger groups and larger prey making it harder
 - **Unusual Body Shape**. Can’t use most clothing, armor, or furniture fitted. Armor needs to be specifically made for you.
+- **Scent Marking**. You compulsively mark territory. Creatures with strong smell can track you easily.
 - **Small**. One [[Size]] category lower
 - **Slow**. Pace is 2/3 of normal. 
 
@@ -84,9 +85,9 @@ The forest is full of all sorts of creatures. Decide what your creature looks li
 - **Spell Sniper**. Requires Bolt. Your bolt casts have double the normal range.
 
 ## Combat Traits
-- **Action Surge**. You gain 2 extra actions for this turn at the cost of gaining an [[Exhaustion]]
+- **Action Surge**. You gain 2 extra actions for this turn at the cost of gaining an [[Fatigue]]
 - **Alert**. Can [[Combat Rules#Resist]] action against attacks from stealth.
-- **Berserk**. Can enter frenzied state that lasts 1 minute where your current and max composure is doubled. You gain a point of exhaustion after it ends.
+- **Berserk**. Can enter frenzied state that lasts 1 minute where your current and max composure is doubled. You gain a point of fatigue after it ends.
 - **Cleaver**. All melee weapon you wield now has the **Cleave** property. Weapons already with the property can now cleave 360 degrees.
 - **David**. Advantage on attacks against larger targets
 - **Dishonorable Duelist**. #todo
@@ -97,7 +98,7 @@ The forest is full of all sorts of creatures. Decide what your creature looks li
 - **Formation Fighter**. Adjacent allies benefit from your armor.
 - **Goliath**. Advantage on attacks against smaller targets
 - **Grappler**. When using weapons with the **Grapple** property, you can use the normal attack dice instead of a vitality check for the grapple attack
-- **Indomitable**. You can take the resist action without spending any action, but you gain a level of [[Exhaustion]] every time
+- **Indomitable**. You can take the resist action without spending any action, but you gain a level of [[Fatigue]] every time
 - **Killing Blow**. Killing a hostile creature on your turn through one or more actions refunds an action.
 - **Powerful Drag**. You count as one [[Size]] category larger for the purposes of determining [[Combat Rules#Grapple Attack]].
 - **Relentless** (2). You autosucceed a [[Wounded]] vitality check. You can only be killed by bringing your vitality down to 0.
@@ -105,11 +106,7 @@ The forest is full of all sorts of creatures. Decide what your creature looks li
 - **Shover**. When using weapons with the **Shover** property, you can use the normal attack dice instead of a vitality check for the shove attack
 
 ## Sneak Traits
-- **Backstab**. #todo 
 - **Chicanery**. Stealthy checks that aren't critical fails don't alert enemies
-
-## Negative Traits
-- **Claustrophobia**. #todo fear while in small spaces?
 
 # Magical Traits
 Can't be picked up during character creation.
@@ -140,6 +137,6 @@ Can't be picked up during character creation.
 
 ---
 - **Palinopsia**: You leave a feint after after-image of yourself every time you take the move action. The image fades away at the start of your next turn. Think of the images as additional interfaces into your soul; you can take actions through them, and effects that affect them affect you.
-- **Sunlight Weakness**. Every minute spent exposed to the sun gives you a point of [[Exhaustion]]
+- **Sunlight Weakness**. Every minute spent exposed to the sun gives you a point of [[Fatigue]]
 - **Tormented**. A mischievous spirit keeps making trouble for you. The player should remind the BM of this trait at least once during the game session.
 - **Totem-Bound**. You have a totem object that's more significant than your body. If you are far from your totem, you die. #todo possibly "cant be killed so long as the totem is good"

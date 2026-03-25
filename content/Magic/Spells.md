@@ -21,6 +21,7 @@
 - eg axe of polymorph
 - eg invisibility on yourself, and confusion in an aoe around yourself
 - While the spell is active, as appropriate, a spectral manifestation of the spirit providing you with the effect stands besides you, performing the actions of the effect
+	- You need to do jojo poses to gesture them to target specific targets
 
 # Effect
 - Main article: [[Effects]]
